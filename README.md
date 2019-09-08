@@ -25,3 +25,10 @@ Este proyecto consiste en una calculadora que permite hacer la siguientes operac
     8. conjugada de una matriz compleja
     9. Adjjunto (daga) de una matriz compleja
     10. Multiplicación de matrices complejas
+    11. Acción de matriz compleja sobre vector complejo
+    12. Producto interno de vectores complejos
+    13. Norma de vector complejo
+    14. Distancia entre dos vectores complejos
+    15. ¿Es la matriz compleja una matriz unitaria?
+    16. ¿Es la matriz compleja una matriz hermitiana?
+    17. Producto tensorial de matrices complejas
